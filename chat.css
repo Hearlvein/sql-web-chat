@@ -1,0 +1,39 @@
+body {
+	font-family: Helvetica;
+	font-size: 1.5em;
+	background-color: #222;
+	color: #eee;
+	margin: 0;
+	padding: 0;
+}
+
+ul {
+	list-style-type: none;
+	border: 2px solid #eee;
+	margin: 0;
+	padding: 0;
+}
+
+li {
+	margin: 0;
+	padding: 0;
+	border: 2px solid blue;
+	margin: 1em;
+	padding: 0.5em;
+}
+
+form#input p {
+	border: 2px solid #eee;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+
+form#input p input {
+	border: 2px solid blue;
+	margin: 1em;
+	padding: 0.3em;
+	font-size: 1em;
+	padding-right: 2em;
+	padding-left: 2em;
+}
